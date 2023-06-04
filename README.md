@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azel
 - 👀 I’m interested in path to become a fullstack developer
-- 🌱 I’m currently learning java 
+- 🌱 I’m currently learning  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
